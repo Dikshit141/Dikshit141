@@ -40,12 +40,6 @@ Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/H
 <a href="https://github.com/Dikshit141">
   <img align="left" alt="Dikshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.hackerrank.com/anjali0407_cse19">
-  <img align="left" alt="Anjali's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
- <a href="https://auth.geeksforgeeks.org/user/anjali0407cse19/profile">
-  <img align="left" alt="Anjali's GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a></p>
  <br>
  <br>
  
