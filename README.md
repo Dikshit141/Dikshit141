@@ -40,6 +40,8 @@ Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/H
 <a href="https://github.com/Dikshit141">
   <img align="left" alt="Dikshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+ <a href="https://www.instagram.com/kapoor.dikshit/">
+   <img align="left" alt="Dikshit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
  <br>
  <br>
  
