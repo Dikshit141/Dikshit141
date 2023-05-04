@@ -9,9 +9,10 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 👨‍💼 Currently working in Tata Technologies Limited as Graduate Engineer Trainee (GET).
 - 🎓 Currently pursuing Computer Science Engineering.
 - 👨‍💻 I'm Full Stack developer. 
-- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things 
+- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things .
 
 <h3>🛠 Tech Stack</h3>
 
