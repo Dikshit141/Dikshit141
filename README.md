@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/dikshitkapoor/">
   <img align="left" alt="Dikshit's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
 </a>
-<a href="https://www.instagram.com/kapoor.dikshit/">
-  <img align="left" alt="Dikshit's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" />
-</a>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
