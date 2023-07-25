@@ -6,7 +6,7 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍💼 worked in Tata Technologies Limited as Graduate Engineer Trainee (GET).
+- 👨‍💼 worked for 6 months in Tata Technologies Limited as Graduate Engineer Trainee (GET).
 - 🎓 Currently pursuing Computer Science Engineering.
 - 👨‍💻 I'm Full Stack developer. 
 - ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things .
