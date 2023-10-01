@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 C | Java | C++ | JavaScript
-- 🔧 Visual Studio Code | GitHub
+- 🔧 Visual Studio Code | GitHub | Eclipse
 
 
 <br>
