@@ -6,7 +6,7 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍💼 worked for six months in Tata Technologies Limited as Graduate Engineer Trainee (GET).
+- 👨‍💼 worked at Tata Technologies Limited as Graduate Engineer Trainee (GET).
 - 🎓 Graduated with B.E. in Computer Science Engineering from Chitkara University in 2023.
 - 👨‍💻 I'm a Full Stack developer, JAVA Developer and Software Developer. 
 - ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things.
